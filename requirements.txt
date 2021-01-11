@@ -1,0 +1,6 @@
+scipy
+numpy
+scikit-learn
+tensorlayer
+tensorflow
+Pillow
