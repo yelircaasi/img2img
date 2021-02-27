@@ -1,7 +1,7 @@
 """
 Takes one image file path passed as a command-line argument to the script,
-  as well as an optional parameter for .
-Returns n
+  as well as an optional parameter for the number n of images to return.
+Returns n most similar images.
 """
 from os import environ
 environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
